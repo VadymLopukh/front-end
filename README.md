@@ -1,4 +1,4 @@
- # hello pidar!!!
+ # hello people!!!
 
 так умееш?
 
